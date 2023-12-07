@@ -43,29 +43,29 @@
   
 
 # 🤝 CONTRIBUTION: 
-  - ![95%](https://progress-bar.dev/95?title=Arellano)
+  - ![20%](https://progress-bar.dev/20?title=Arellano)
 
         Managed, coordinate, and led the team.
         Involvement in creating and designing the front end,
         back end and database management of the system  
-- ![90%](https://progress-bar.dev/90?title=Catalo)
+- ![20%](https://progress-bar.dev/20?title=Catalo)
 
         I'm offering insights and suggestions regarding
         our group's creation of an enrollment management system.
         I'm responsible for quality checking our work as well.
-- ![90%](https://progress-bar.dev/90?title=Hawak)
+- ![20%](https://progress-bar.dev/20?title=Hawak)
 
         Actively helping my groupmates by providing knowledge
         in coding concepts and troubleshooting problems.
         Through effective communication and technical support,
         It ensures the overall success and quality of our project.
-- ![95%](https://progress-bar.dev/95?title=Lagunsing)
+- ![20%](https://progress-bar.dev/20?title=Lagunsing)
 
         Proficiently designing front-end interfaces,
         effectively managing and appropriately utilizing
         back-end systems, and manipulating databases
         within the system.
-- ![90%](https://progress-bar.dev/90?title=Palo)
+- ![20%](https://progress-bar.dev/20?title=Palo)
 
         My contribution focused on articulating the system's
         data management features, emphasizing data security
