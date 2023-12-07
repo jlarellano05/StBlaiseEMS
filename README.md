@@ -5,6 +5,7 @@
 ### The Web-Based Enrollment Management System is to transform this approach by using technology to improve and quicken the entire enrollment process. The goal of this project is to create a comprehensive online platform that makes it easier to submit applications, verify documents, and enter data.
 
 <details>
+  
   <summary>Web-Based Enrollment Management System UI Screenshots</summary>
   
   ### Home Page
