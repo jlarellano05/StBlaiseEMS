@@ -6,7 +6,7 @@
 
 <details>
   
-  <summary>Web-Based Enrollment Management System UI Screenshots</summary>
+  <summary>📸 Web-Based Enrollment Management System UI Screenshots 📸</summary>
   
   ### Home Page
   ![Screenshot 2023-12-06 195328](https://github.com/Catalo21/sbcaEMS/assets/96164347/812bc793-f191-459e-882b-fcaa369964aa)
