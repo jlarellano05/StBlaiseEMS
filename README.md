@@ -45,7 +45,7 @@
 # 🤝 CONTRIBUTION: 
   - ![95%](https://progress-bar.dev/95?title=Arellano)
 
-        Managed coordinate and led the team.
+        Managed, coordinate, and led the team.
         Involvement in creating and designing the front end,
         back end and database management of the system  
 - ![90%](https://progress-bar.dev/90?title=Catalo)
