@@ -4,9 +4,6 @@
 
 ### The Web-Based Enrollment Management System is to transform this approach by using technology to improve and quicken the entire enrollment process. The goal of this project is to create a comprehensive online platform that makes it easier to submit applications, verify documents, and enter data.
 
-<details>
-  
-  <summary>CLICK HERE!💻 Web-Based Enrollment Management System UI Screenshots CLICK HERE!</summary>
   
   ### Home Page
   ![Screenshot 2023-12-06 195328](https://github.com/Catalo21/sbcaEMS/assets/96164347/812bc793-f191-459e-882b-fcaa369964aa)
@@ -32,7 +29,7 @@
   ### Change Password Page
   ![Screenshot 2023-12-06 195732](https://github.com/Catalo21/sbcaEMS/assets/96164347/9988a022-5c88-44e4-97cd-67eb03d8fefa)
 
-</details>
+
 
 # 🙋‍♂️ MEMBERS: 
 - Arellano, John Lloyd M. 🥵   
